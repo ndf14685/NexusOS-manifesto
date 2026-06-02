@@ -39,7 +39,7 @@ Los usuarios dejarán de interactuar principalmente con aplicaciones y comenzar�
 * Gobernanza por diseño.
 * Observabilidad obligatoria.
 * Soberanía cognitiva.
-* Arquitectura reemplazable.
+* Reemplazabilidad por diseño.
 
 ## Lo que NexusOS NO es
 
@@ -58,6 +58,14 @@ Los usuarios dejarán de interactuar principalmente con aplicaciones y comenzar�
 * Gobernanza para inteligencia artificial.
 * Infraestructura orientada a agentes.
 
+## Current Experiments
+
+* Agent Portals
+* Cognitive Memory
+* Voice Interfaces
+* Agent Governance
+* Cognitive Kernels
+
 ## Estado actual
 
 NexusOS es una visión y un conjunto de principios.
@@ -68,6 +76,7 @@ Las implementaciones actuales son experimentos que ayudan a descubrir cómo podr
 
 ## Documentos
 
+* [WHY.md](WHY.md) — Por qué existe NexusOS y qué problema conceptual busca resolver.
 * [VISION.md](VISION.md) — Misión, visión a 10 años y concepto de Cognitive Kernel.
 * [FUNDAMENTAL_LAWS.md](FUNDAMENTAL_LAWS.md) — Las 10 leyes fundamentales del sistema.
 * [STRATEGIC_LAWS.md](STRATEGIC_LAWS.md) — Las 10 leyes estratégicas para la toma de decisiones.

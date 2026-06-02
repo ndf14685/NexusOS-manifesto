@@ -12,7 +12,7 @@ NexusOS no debe depender de marcas, empresas, servicios o frameworks específico
 
 No existe una herramienta sagrada.
 
-OpenAI, Anthropic, Google, Microsoft, Meta, OpenClaw, Hermes, Backstage, PostgreSQL, Qdrant, Telegram, Android o Ray-Ban son implementaciones posibles, no dependencias absolutas.
+Modelos, clouds, frameworks, bases de datos, portales, dispositivos, canales de comunicación y motores de ejecución son implementaciones posibles, no dependencias absolutas.
 
 ---
 
@@ -45,11 +45,11 @@ Las implementaciones pueden cambiar.
 
 ## Ley 4: Todo componente debe ser reemplazable
 
-OpenClaw no es NexusOS.
+Ninguna implementación es NexusOS.
 
-OpenClaw puede ser la implementación actual del Cognitive Kernel.
+Una implementación puede ocupar temporalmente una responsabilidad dentro del sistema.
 
-Hermes u otra herramienta futura podrían reemplazarlo si cumplen mejor el contrato.
+Otra implementación futura puede reemplazarla si cumple mejor el contrato.
 
 ---
 

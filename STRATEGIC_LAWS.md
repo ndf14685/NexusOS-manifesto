@@ -20,17 +20,14 @@ Todo proyecto debe responder claramente:
 
 Ejemplos:
 
-| Proyecto          | Capacidad               |
-| ----------------- | ----------------------- |
-| OpenClaw          | Cognitive Kernel        |
-| Hermes            | Kernel alternativo      |
-| Backstage         | Agent Portal            |
-| Android           | Interfaz móvil          |
-| Telegram          | Canal de interacción    |
-| Ray-Ban           | Computación ubicua      |
-| Memoria Cognitiva | Persistencia            |
-| MCP               | Sistema de herramientas |
-| Kubernetes        | Capa de ejecución       |
+| Proyecto experimental | Capacidad               |
+| --------------------- | ----------------------- |
+| Cognitive Kernel      | Planificación y ejecución |
+| Agent Portal          | Descubrimiento de agentes |
+| Cognitive Memory      | Persistencia verificable  |
+| Voice Interface       | Canal de interacción      |
+| Agent Governance      | Políticas y permisos      |
+| Skill Registry        | Catálogo de capacidades   |
 
 Si un proyecto no puede responder esta pregunta, debe reconsiderarse su prioridad.
 
@@ -44,7 +41,7 @@ No existe un diseño completo conocido.
 
 Cada componente construido debe validar una hipótesis sobre cómo debería funcionar un sistema operativo cognitivo.
 
-Las implementaciones actuales son experimentos controlados que permiten descubrir arquitectura futura.
+Las implementaciones actuales son experimentos controlados que permiten descubrir el diseño futuro.
 
 ---
 
@@ -54,15 +51,15 @@ Las tecnologías cambian.
 
 La visión permanece.
 
-OpenClaw puede cambiar.
+Los kernels pueden cambiar.
 
-Hermes puede cambiar.
+Los portales pueden cambiar.
 
-GPT puede cambiar.
+Los modelos pueden cambiar.
 
-Claude puede cambiar.
+Las interfaces pueden cambiar.
 
-Gemini puede cambiar.
+Las capas de ejecución pueden cambiar.
 
 Incluso NexusOS puede cambiar internamente.
 
@@ -124,7 +121,7 @@ Cada proyecto nuevo debe integrarse con la visión general.
 
 No es necesario detener proyectos actuales para perseguir NexusOS.
 
-Los proyectos existentes deben evolucionar gradualmente hacia la arquitectura objetivo.
+Los proyectos existentes deben evolucionar gradualmente hacia la dirección objetivo.
 
 ---
 
@@ -144,13 +141,13 @@ Cada avance debe acercar al sistema a esa visión, aunque sea de forma increment
 
 ---
 
-## Ley Estratégica N° 9: La arquitectura debe sobrevivir a sus creadores
+## Ley Estratégica N° 9: El diseño debe sobrevivir a sus creadores
 
 NexusOS debe poder ser entendido, mantenido y evolucionado por otras personas, otros agentes o futuras generaciones de sistemas.
 
 Las decisiones deben quedar documentadas.
 
-La arquitectura debe ser explicable.
+El diseño debe ser explicable.
 
 El conocimiento no debe depender de individuos específicos.
 

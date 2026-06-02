@@ -24,11 +24,10 @@ NexusOS no es:
 * Un framework de agentes
 * Un producto SaaS
 * Una empresa
-* OpenClaw
-* Hermes
-* Backstage
+* Una herramienta específica
+* Una implementación particular
 
-Estos son implementaciones posibles de sus contratos, no el sistema mismo.
+Las herramientas futuras pueden implementar partes de sus contratos, pero no son el sistema mismo.
 
 ## Principio fundacional
 
@@ -38,7 +37,7 @@ Lo que cambia es la implementación.
 
 ## Visión a 10 años
 
-En 10 años NexusOS será la referencia de arquitectura para plataformas cognitivas soberanas.
+En 10 años NexusOS será la referencia conceptual para plataformas cognitivas soberanas.
 
 Las organizaciones podrán:
 
@@ -67,7 +66,7 @@ El Cognitive Kernel no es un modelo.
 
 No es un agente específico.
 
-No es OpenClaw, Hermes, ni ninguna implementación particular.
+No es una implementación particular.
 
 Es un contrato de comportamiento que cualquier implementación debe cumplir para ser considerada parte de NexusOS.
 
@@ -82,15 +81,6 @@ Es un contrato de comportamiento que cualquier implementación debe cumplir para
 | Gobernanza             | Aplicar permisos, límites y políticas de ejecución        |
 | Observabilidad         | Registrar cada acción con trazabilidad completa           |
 | Verificación           | Validar resultados antes de considerarlos definitivos     |
-
-### Implementaciones actuales del Cognitive Kernel
-
-| Implementación | Estado      |
-| -------------- | ----------- |
-| OpenClaw       | Activa      |
-| Hermes         | Experimental |
-
-Cualquier implementación futura que cumpla el contrato puede convertirse en el Cognitive Kernel activo.
 
 ## Horizonte técnico
 
